@@ -14,8 +14,7 @@ This GitHub repo consists of Code and Some results of project- Diabetes Treatmen
 - 🧛‍♂️ Gokul Nandan T M [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/gokulnandantm)       [<img align="center" alt="https://user-images.githubusercontent.com/85387773/151699347-c47ccee2-f534-4788-ae23-711bf098ed53.svg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:2019mmb1315@iitrpr.ac.in)
 <!--
 - 🧑‍🔬 Bobby Kuhikar[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/bobby-kuhikar-b612a61b4)     [<img align="center" alt="https://user-images.githubusercontent.com/85387773/151699347-c47ccee2-f534-4788-ae23-711bf098ed53.svg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:2019mmb1313@iitrpr.ac.in)
-- 🧑‍🎓 Rishabh jain [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rishabh-jain-b992761b4)      [<img align="center" alt="https://user-images.githubusercontent.com/85387773/151699347-c47ccee2-f534-4788-ae23-711bf098ed53.svg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:2019mmb1322@iitrpr.ac.in)
--->
+- 🧑‍🎓 Rishabh jain [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rishabh-jain-b992761b4)      [<img align="center" alt="https://user-images.githubusercontent.com/85387773/151699347-c47ccee2-f534-4788-ae23-711bf098ed53.svg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:2019mmb1322@iitrpr.ac.in)-->
 - 👨‍ Ankit Kumar Meena [<img align="center" alt="https://user-images.githubusercontent.com/85387773/151699347-c47ccee2-f534-4788-ae23-711bf098ed53.svg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:2019mmb1308@iitrpr.ac.in)
 ### Languages and Tools used:
 
@@ -23,5 +22,5 @@ This GitHub repo consists of Code and Some results of project- Diabetes Treatmen
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/gokulnandan-0/GoldNanoparticles)
 [<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pytorch.svg" />](https://github.com/gokulnandan-0/GoldNanoparticles/issues/2#issuecomment-1025147677)
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />](www.google.com)
-[<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg" />](www.google.com)
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />](https://github.com/gokulnandan-0/GoldNanoparticles/issues/2#issuecomment-1025147574)
+[<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg" />](https://github.com/gokulnandan-0/GoldNanoparticles/issues/2#issuecomment-1025147665)
