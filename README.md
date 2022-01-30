@@ -3,7 +3,7 @@ This GitHub repo consists of Code and Some results of project- Diabetes Treatmen
 ### Hi There we are group of Students from IIT Ropar 👋
 
 ## Connect with us:
-- 🤵‍♂️ Harshvardhan Shewakramani [[Linkedin](https://www.linkedin.com/in/harshvardhan-shewakramani-33b4b61b3)]
+- 🤵‍♂️ Harshvardhan Shewakramani [![Linkedin](https://www.linkedin.com/in/harshvardhan-shewakramani-33b4b61b3)]
 - 👨‍💻 Satya Prakash Mishra [[Linkedin](https://www.linkedin.com/in/satya-mishra-)]
 - 🧛‍♂️ Gokul Nandan T M [[Linkedin](https://www.linkedin.com/in/gokulnandantm)]
 - 🧑‍🔬 Bobby Kuhikar [[Linkedin](https://www.linkedin.com/in/bobby-kuhikar-b612a61b4)]
