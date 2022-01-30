@@ -15,7 +15,7 @@ This GitHub repo consists of Code and Some results of project- Diabetes Treatmen
 ### Languages and Tools used:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-![download](https://user-images.githubusercontent.com/85387773/151697316-3deacc3f-7d64-4a2a-ba5e-9ac7c9a1cf4c.jpg)
+[<img align="left" alt="Python" width="26px" src=https://user-images.githubusercontent.com/85387773/151697316-3deacc3f-7d64-4a2a-ba5e-9ac7c9a1cf4c.jpg"/>]
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
