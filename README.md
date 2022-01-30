@@ -9,4 +9,4 @@ This GitHub repo consists of Code and Some results of project- Diabetes Treatmen
 - 🧑‍🔬 Bobby Kuhikar [[Linkedin](https://www.linkedin.com/in/bobby-kuhikar-b612a61b4)]
 - 🧑‍🎓 Rishabh jain
 - 👨‍ Ankit Kumar Meena [[Linkedin](https://www.linkedin.com/in/rishabh-jain-b992761b4)]
-- harshvardhan [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]![Linkedin](https://www.linkedin.com/in/harshvardhan-shewakramani-33b4b61b3)]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
