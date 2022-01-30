@@ -1,7 +1,7 @@
 # GoldNanoparticles
 This GitHub repo consists of Code and Some results of project- Diabetes Treatment using Gold nanoparticles. These Consist of ML Models used for prediction Diabetes and further the basic theory and working of Gold nanoparticles. 
 ### Hi There we are group of Students from IIT Ropar 👋
-
+ [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harshvardhan-shewakramani-33b4b61b3)
 ## Connect with us:
 - 🤵‍♂️ Harshvardhan Shewakramani [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harshvardhan-shewakramani-33b4b61b3)    [<img align="center" alt="https://user-images.githubusercontent.com/85387773/151699347-c47ccee2-f534-4788-ae23-711bf098ed53.svg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:2019mmb1317@iitrpr.ac.in)
 - 👨‍💻 Satya Prakash Mishra [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/satya-mishra-)     [<img align="center" alt="https://user-images.githubusercontent.com/85387773/151699347-c47ccee2-f534-4788-ae23-711bf098ed53.svg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:2019mmb1325@iitrpr.ac.in)
