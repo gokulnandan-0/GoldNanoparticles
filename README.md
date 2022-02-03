@@ -1,9 +1,12 @@
 # GoldNanoparticles
 This GitHub repo consists of Code and Some results of project- Diabetes Treatment using Gold nanoparticles. These Consist of ML Models used for prediction Diabetes and further the basic theory and working of Gold nanoparticles. 
 ### Hi There we are group of Students from IIT Ropar 👋
+
+ Go through the solution here: [<img align="center" alt="https://user-images.githubusercontent.com/85387773/151700277-fc451bb2-50fb-4b80-8aa3-d05861dbd269.svg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/canva.svg" />](https://www.canva.com/design/DAE3TvO8BAQ/tOYpYhAn38SA4mbIZ1ppZQ/view?utm_content=DAE3TvO8BAQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
  
  you can access how the idea for this solution evolved through our presentation: [<img align="center" alt="https://user-images.githubusercontent.com/85387773/151700277-fc451bb2-50fb-4b80-8aa3-d05861dbd269.svg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/canva.svg" />](https://www.canva.com/design/DAEofHKZZrY/MBuFZQiK11__gwMsUBTziw/view?utm_content=DAEofHKZZrY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
  
+
  
  
  
